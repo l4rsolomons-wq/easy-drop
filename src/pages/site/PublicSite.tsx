@@ -1,10 +1,10 @@
 import { useState, type ReactNode } from "react";
 
-import depotImg from "@/assets/depot.jpg";
-import podImg from "@/assets/driver.jpg";
-import corridorImg from "@/assets/corridor.jpg";
-import cargoImg from "@/assets/cargo.jpg";
-import heroTrikeImg from "@/assets/hero-trike.jpg";
+import depotImg from "@/assets/depot.png";
+import podImg from "@/assets/driver.png";
+import corridorImg from "@/assets/corridor.png";
+import cargoImg from "@/assets/cargo.png";
+import heroTrikeImg from "@/assets/hero.png";
 import { Icon, Logo, type IconName } from "@/components/Icon";
 import { Badge, Button, Card, Field, Input, Select, Textarea } from "@/components/ui";
 import { Link, useRouter } from "@/router";

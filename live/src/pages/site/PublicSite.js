@@ -1,10 +1,10 @@
 import { jsx as _jsx, jsxs as _jsxs, Fragment as _Fragment } from "https://esm.sh/react@19.2.6/jsx-runtime";
 import { useState } from "https://esm.sh/react@19.2.6";
-const depotImg = "./assets/depot.jpg";
-const podImg = "./assets/driver.jpg";
-const corridorImg = "./assets/corridor.jpg";
-const cargoImg = "./assets/cargo.jpg";
-const heroTrikeImg = "./assets/hero-trike.jpg";
+const depotImg = "./assets/depot.png";
+const podImg = "./assets/driver.png";
+const corridorImg = "./assets/corridor.png";
+const cargoImg = "./assets/cargo.png";
+const heroTrikeImg = "./assets/hero.png";
 import { Icon, Logo } from "./../../components/Icon.js";
 import { Badge, Button, Card, Field, Input, Select, Textarea } from "./../../components/ui.js";
 import { Link, useRouter } from "./../../router.js";
